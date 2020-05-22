@@ -1,3 +1,12 @@
-A library with Material UI components
+### Create React App boilerplate with Material UI library
 
-material-ui-cra-boilerplate
+Usage:
+
+* `yarn install`
+* `yarn start`
+
+### License
+
+MIT License
+
+Copyright (c) 2020 React UI Builder Team.
